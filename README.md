@@ -24,13 +24,12 @@ Sou um estudante de tecnologia fissurado por hackathons, maratonas de programaç
 
 ### Tecnologias conhecidas 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,git,arduino,react,styledcomponents,nodejs,ts,angular,mysql,postgres,prisma,py,ruby,figma,postman&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,git,arduino,react,styledcomponents,nodejs,ts,angular,mysql,postgres,prisma,py,ruby,figma,postman,nest,next&theme=dark&perline=6)](https://skillicons.dev)
 
 <!--My Socials-->
-### Entre em contato comigo !
+### Entre em contato comigo pelos canais abaixo ⬇
 <a href="https://www.linkedin.com/in/klayvemguimaraes/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color:FFF" alt="LinkedIn"></a>
-
-<a href="mailto:klayvemguik@gmail.com"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color:FFF" alt="LinkedIn"></a>
+<a href="mailto:klayvemguik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color:FFF" alt="Gmail"></a>
 
 ### Meu Status
 
