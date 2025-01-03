@@ -10,7 +10,8 @@
 
 Sou um estudante de tecnologia fissurado por hackathons, maratonas de programação, CTFs 🏎️
 
-- 👩‍💻 Playtester de Jogos com bastante experiência com Qualidade de Software
+- 👩‍💻 Engenheiro de Software Junior DigAí
+- 👩‍💻 Trabalhei como Playtester de Jogos com ênfase em com Qualidade de Software
 - 🎓 Formado em Desenvolvimento de Sistemas na ETEC
 - 🕷️ Formado e bolsista em Cybersecurity e Data Sciense pelo Edutalent
 - 🧑🏻‍💻 Certificado em Cloud Essentials + Comptia
