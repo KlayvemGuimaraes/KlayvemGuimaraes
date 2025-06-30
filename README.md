@@ -10,7 +10,6 @@
 
 Sou um estudante de tecnologia fissurado por hackathons, maratonas de programação, CTFs 🏎️
 
-- 💼 Atualmente sou Engenheiro de Software na DigAÍ
 - 👩‍💻 Trabalhei como Playtester de Jogos com ênfase em com Qualidade de Software
 - 🎓 Formado em Desenvolvimento de Sistemas na ETEC
 - 🕷️ Formado e bolsista em Cybersecurity e Data Sciense pelo Edutalent
