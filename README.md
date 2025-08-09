@@ -1,8 +1,9 @@
 # Klayvem Guimarães | Fullstack Developer & Back-end Engineer
-
 [![Available Now](https://img.shields.io/badge/AVAILABLE-NOW-27ae60?style=for-the-badge)]()
-[![Contact Me](https://img.shields.io/badge/CONTACT-Email-020114?style=for-the-badge&logo=gmail)](mailto:klayvemguik@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/klayvemguimaraes/)
+[![Currículo PDF](https://img.shields.io/badge/-Currículo-020114?style=for-the-badge&logo=adobe-acrobat-reader)]([Klayvem_Guimarães_cv_pt.pdf](https://github.com/user-attachments/files/21701270/Klayvem_Guimaraes_cv_pt.pdf))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-020114?style=for-the-badge&logo=)](https://klayvemguimaraes.netlify.app/)
+[![GitHub Projects](https://img.shields.io/badge/-Projetos-020114?style=for-the-badge&logo=github)](https://github.com/klayvemguimaraes?tab=repositories)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3e541d80-8aa8-4432-be39-8ab0c9a5f260" alt="Tech Banner" width="100%">
@@ -10,11 +11,16 @@
 
 ## 🔍 Sobre Mim
 - **Engenheiro de Software Fullstack** com foco em back-end e soluções de IA generativa
-- **Especialista** em TypeScript, NestJS e arquitetura de sistemas escaláveis
+- **Experiência comprovada** com TypeScript, NestJS e arquitetura de sistemas:
+  - Projetos em produção usando NestJS (3+ sistemas escaláveis)
+  - 3 anos desenvolvendo APIs escaláveis
+  - Redução de 83% no tempo operacional através de automações
+- **4+ anos** construindo sistemas fullstack
+- **Cursando Bacharelhado em Engenharia da Computação** pela [Universidade Virtual do Estado de São Paulo](https://univesp.br/)
 - **Objetivo**: Desenvolver soluções inovadoras que integram IA generativa com sistemas robustos de back-end
 - **Skills**:
   - Trabalho em equipe multidisciplinar (com UX/Product)
-  - Resolução de problemas complexos sob pressão (hackathons)
+  - Resolução de problemas
   - Proatividade, comunicação e oratória
 
 ## 🛠️ Stack Principal
@@ -56,6 +62,6 @@ _Jan 2024 - Dez 2024 (1 ano) | Híbrido_
      Stack: React, TypeScript
 
 ## 📬 Vamos Conversar?
-[![Portfolio](https://img.shields.io/badge/-Portfolio-020114?style=for-the-badge&logo=react)](https://klayvem.dev)
-[![GitHub Projects](https://img.shields.io/badge/-Projetos-020114?style=for-the-badge&logo=github)](https://github.com/klayvemguimaraes?tab=repositories)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-020114?style=for-the-badge&logo=whatsapp)](https://wa.me/5511999999999)
+[![Agendar Reunião](https://img.shields.io/badge/-Agendar_30min-020114?style=for-the-badge&logo=calendly)](https://calendly.com/klayvemguik/30min)
+[![Email](https://img.shields.io/badge/-Email-020114?style=for-the-badge&logo=gmail)](mailto:klayvemguik@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-020114?style=for-the-badge&logo=whatsapp)](https://wa.me/5511941732215)
