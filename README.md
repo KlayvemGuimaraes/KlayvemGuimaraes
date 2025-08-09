@@ -12,7 +12,7 @@
 ## 🔍 Sobre Mim
 - **Engenheiro de Software Fullstack** com foco em back-end e soluções de IA generativa
 - **Experiência comprovada** com TypeScript, NestJS e arquitetura de sistemas:
-  - Projetos em produção usando NestJS (3+ sistemas escaláveis)
+  - Projetos em produção usando TypeScript/NestJS
   - 3 anos desenvolvendo APIs escaláveis
   - Redução de 83% no tempo operacional através de automações
 - **4+ anos** construindo sistemas fullstack
