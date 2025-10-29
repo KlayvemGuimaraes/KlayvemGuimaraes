@@ -1,4 +1,4 @@
-# Klayvem Guimarães | Fullstack Developer & Back-end Engineer
+# Klayvem Guimarães | Fullstack Developer & Back-end Engineer & AI Engineer 
 [![Available Now](https://img.shields.io/badge/AVAILABLE-NOW-27ae60?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/klayvemguimaraes/)
 [![Currículo PDF](https://img.shields.io/badge/-Currículo-020114?style=for-the-badge&logo=adobe-acrobat-reader)]([Klayvem_Guimarães_cv_pt.pdf](https://github.com/user-attachments/files/21701270/Klayvem_Guimaraes_cv_pt.pdf))
