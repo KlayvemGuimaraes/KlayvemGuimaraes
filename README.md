@@ -1,4 +1,4 @@
-# Klayvem Guimarães | AI Engineer & Back-end Engineer
+# Klayvem Guimarães | AI Engineer & Software Engineer
 [![Available Now](https://img.shields.io/badge/AVAILABLE-NOW-27ae60?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/klayvemguimaraes/)
 [![Currículo PDF](https://img.shields.io/badge/-Currículo-020114?style=for-the-badge&logo=adobe-acrobat-reader)]([Klayvem_Guimarães_cv_pt.pdf](https://github.com/user-attachments/files/21701270/Klayvem_Guimaraes_cv_pt.pdf))
@@ -52,7 +52,6 @@ _Jan 2024 - Dez 2024 (1 ano) | Híbrido_
 - **[CompTIA Cloud Essentials +](https://www.credly.com/badges/d42bc635-7e1c-438f-92eb-d82cc94b86cd/public_url)**
 - **[AWS AI Practioner](https://www.credly.com/badges/c7832435-7fdf-4fbb-87ab-659572e8131c/public_url)**
 - **[Expert Agentic Engineer L1](https://deco-certify.deco.page/certificado/60a395cd-0305-4c42-9342-ef9570d36725)**
-- **[AWS Cloud Practioner](xxx)**
 - **Top Performer** - Projeto de automação da DigAI (reconhecimento interno)
 - **Campeão em 10+ Hackathons** em 100+ participações:     
    - **1º Lugar Hacking Medicine MIT & Albert Einstein**  
