@@ -48,12 +48,14 @@ _Jan 2024 - Dez 2024 (1 ano) | Híbrido_
 - Analisei UX e qualidade em 50+ jogos para 20+ estúdios parceiros
 - Desenvolvi checklists de teste que aceleraram em 25% o processo de QA
 
-## 🏆 Destaques
-- **[CompTIA Cloud Essentials +](https://www.credly.com/badges/d42bc635-7e1c-438f-92eb-d82cc94b86cd/public_url)**
+## 🔖 Certificações
 - **[AWS AI Practioner](https://www.credly.com/badges/c7832435-7fdf-4fbb-87ab-659572e8131c/public_url)**
+- **[CompTIA Cloud Essentials +](https://www.credly.com/badges/d42bc635-7e1c-438f-92eb-d82cc94b86cd/public_url)**
 - **[Expert Agentic Engineer L1](https://deco-certify.deco.page/certificado/60a395cd-0305-4c42-9342-ef9570d36725)**
+
+## 🏆 Destaques
 - **Top Performer** - Projeto de automação da DigAI (reconhecimento interno)
-- **Campeão em 10+ Hackathons** em 100+ participações:     
+- **Campeão em 14+ Hackathons** em 100+ participações:     
    - **1º Lugar Hacking Medicine MIT & Albert Einstein**  
      Plataforma CoreCare - Triagem hospitalar assistida por AI  
      Stack: Typescript, Node, Gemini
