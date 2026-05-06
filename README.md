@@ -33,7 +33,7 @@
 ## 💼 Experiência 
 
 **AI Engineer @ [Rivio](https://www.rivio.com.br/)**  
-_Out 2025 - O momento | Presencial_  
+_Out 2025 - Maio 2026 | Presencial_  
 
 **Software Engineer @ [DigAI](https://www.digai.ai/pt-BR)**  
 _Jan 2025 - Jul 2025 (7 meses) | Remoto_  
