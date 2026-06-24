@@ -1,18 +1,18 @@
 # Klayvem Guimarães | AI Engineer & Software Engineer
-[![Available Now](https://img.shields.io/badge/AVAILABLE-NOW-27ae60?style=for-the-badge)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/klayvemguimaraes/)
-[![Currículo PDF](https://img.shields.io/badge/-Currículo-020114?style=for-the-badge&logo=adobe-acrobat-reader)]([Klayvem_Guimarães_cv_pt.pdf](https://github.com/user-attachments/files/21701270/Klayvem_Guimaraes_cv_pt.pdf))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-020114?style=for-the-badge&logo=)](https://klayvemguimaraes.netlify.app/)
-[![GitHub Projects](https://img.shields.io/badge/-Projetos-020114?style=for-the-badge&logo=github)](https://github.com/klayvemguimaraes?tab=repositories)
+<!-- [![Available Now](https://img.shields.io/badge/AVAILABLE-NOW-27ae60?style=for-the-badge&logo=googlecalendar&logoColor=white)](#) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klayvemguimaraes/)
+[![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo-PDF-020114?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/user-attachments/files/21701270/Klayvem_Guimaraes_cv_pt.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-020114?style=for-the-badge&logo=netlify&logoColor=white)](https://klayvemguimaraes.netlify.app/)
+[![GitHub Projects](https://img.shields.io/badge/Projetos-020114?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klayvemguimaraes?tab=repositories)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3e541d80-8aa8-4432-be39-8ab0c9a5f260" alt="Tech Banner" width="100%">
 </div>
 
 ## 🔍 Sobre Mim
-- **Engenheiro de Software** com foco em back-end e soluções de IA generativa
-- **Experiência** com TypeScript, NestJS, Python, Java e arquitetura de sistemas:
-- **3+ anos** construindo sistemas fullstack
+- **Engenheiro de Software** com foco em back-end e soluções de IA generativa.
+- **Experiência** com TypeScript, NestJS, Python, Java e arquitetura de sistemas.
+- **3+ anos** construindo sistemas fullstack.
 - **Cursando Bacharelhado em Engenharia da Computação** pela [Universidade Virtual do Estado de São Paulo](https://univesp.br/)
 - **Objetivo**: Desenvolver soluções inovadoras que integram GenAI com sistemas robustos de back-end, projetando arquitetura e entregando código limpo e útil.
 - **Skills**:
@@ -29,6 +29,8 @@
 [![AWS](https://img.shields.io/badge/AWS-020114?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 
 ## 💼 Experiência 
+**Software Engineer @ [Itaú Unibanco](https://www.itau.com.br/)**  
+_Jul 2026 - O momento | Hibrído_  
 
 **AI Engineer @ [Rivio](https://www.rivio.com.br/)**  
 _Out 2025 - Maio 2026 (9 meses) | Presencial_  
