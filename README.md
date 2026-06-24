@@ -1,7 +1,7 @@
 # Klayvem Guimarães | AI Engineer & Software Engineer
 <!-- [![Available Now](https://img.shields.io/badge/AVAILABLE-NOW-27ae60?style=for-the-badge&logo=googlecalendar&logoColor=white)](#) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klayvemguimaraes/)
-[![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo-PDF-020114?style=for-the-badge&logo=googledocs&logoColor=white)](./assets/Klayvem_Guimaraes_CV.pdf)
+[![Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo-PDF-020114?style=for-the-badge&logo=googledocs&logoColor=white)](./Klayvem_Guimaraes_CV.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-020114?style=for-the-badge&logo=netlify&logoColor=white)](https://klayvemguimaraes.netlify.app/)
 [![GitHub Projects](https://img.shields.io/badge/Projetos-020114?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klayvemguimaraes?tab=repositories)
 
